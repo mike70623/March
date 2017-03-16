@@ -5,7 +5,7 @@
 using namespace std;
 void badguy();
 int main() {
-	srand(time(NULL));
+	
 	while (1) {
 		badguy();
 		system("pause");
