@@ -18,5 +18,8 @@
     <ClCompile Include="beep loop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="video game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
